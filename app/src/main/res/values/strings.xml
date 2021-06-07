@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Crime Reporting Software</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDcvRey7BtvHA4e7O842G3Rlihz6PrvxFE</string>
+</resources>

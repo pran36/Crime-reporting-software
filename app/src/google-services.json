@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "681476157728",
+    "firebase_url": "https://crimereporting-25d56.firebaseio.com",
+    "project_id": "crimereporting-25d56",
+    "storage_bucket": "crimereporting-25d56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681476157728:android:d22b2664797d581d54a745",
+        "android_client_info": {
+          "package_name": "com.pranish.CrimeReportSoftware"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681476157728-ovmegb98ccaf9qn9og4m6kvu33uhppii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBghK_OeFxo27mcDi9g_0vjJSmTP_cyNeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681476157728-ovmegb98ccaf9qn9og4m6kvu33uhppii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
